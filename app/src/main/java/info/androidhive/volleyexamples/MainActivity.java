@@ -54,4 +54,4 @@ public class MainActivity extends Activity implements OnClickListener {
 	}
 
 }
-//gabriel mamani
+//gabriel mamani v2
