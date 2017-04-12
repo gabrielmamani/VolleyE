@@ -6,3 +6,4 @@ public class Const {
 	public static final String URL_STRING_REQ = "http://192.168.1.138:8090/WebServices/WisetrackServices.asmx/HelloWorld";
 	public static final String URL_IMAGE = "http://api.androidhive.info/volley/volley-image.jpg";
 }
+//gabriel
