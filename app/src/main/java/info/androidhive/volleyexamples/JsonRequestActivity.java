@@ -204,8 +204,6 @@ public class JsonRequestActivity extends Activity implements OnClickListener {
                                             "Error: " + e.getMessage(),
                                             Toast.LENGTH_LONG).show();
                                 }
-
-
                             }
                         }, new Response.ErrorListener() {
                     @Override
